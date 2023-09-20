@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#main{
+    width: 100%;
+    height: 10%;
+    background-color: aqua;
+}
+
+.header{
+    color: blueviolet;
+    font-size: large;
+    margin-left: 200px;
+}
+
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+    background-image: url(https://images.unsplash.com/photo-1695112178098-95924df9f3d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=1000&q=60);
+    background-size: cover;
+    
+}
+#car1{
+    /* position: absolute; */
+    width: 100px;
+    height: 140px;
+    background-color: antiquewhite;
+}
+
+#car2{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    width: 110px;
+    height: 120px;
+    background-color: rgb(2, 22, 248);
+}
+
+#car3{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(188, 109, 5);
+}
+
+#box1{
+    margin: 30px;
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+}
+
+#box2{
+    position: relative;
+    left: 40%;
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+}
+
+#b{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(124, 189, 93);
+}
+
+#b1{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    background-color: rgb(131, 147, 222);
+}
+
+#b2{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    background-color: rgb(232, 182, 151);
+}
+
+#b3{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    background-color: rgb(149, 239, 236);
+}
