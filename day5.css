@@ -1,0 +1,32 @@
+button{
+    background-color: aqua;
+    color: palevioletred ;
+}
+
+#box{
+    background-color: blue;
+}
+
+.class{
+    color: red;
+}
+
+
+.heading{
+    color: red;
+}
+
+
+.fir{
+    background-color: aquamarine;
+}
+
+p{
+    text-align: center;
+    text-decoration: overline;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
