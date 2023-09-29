@@ -1,0 +1,36 @@
+.one{
+    font-weight: bolder;
+}
+
+.two{
+    font-weight: 1000;
+    font-family:Verdana;
+}
+.three{
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.four{
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+h1{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#div1{
+    height: 24px;
+}
+
+#div2{
+    height: 10px;
+}
+
