@@ -1,0 +1,30 @@
+#navbar{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+}
+
+li{
+    list-style-type: none;
+    /* display: inline; */
+}
+
+.first{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
