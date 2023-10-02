@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 8px;
+    
+}
+div{
+    display: inline-block;
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+#box4{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#box1{
+    position: static;
+}
+
+#box2{
+    position: sticky;
+    top:20px;
+    left: 10px;
+
+}
+
+#box3{
+    position: sticky;
+    top: 10px;
+    left: 0px;
+    width: 100%;
+    margin: 0px;
+}
+
+#box4{
+    position: fixed;
+    left: -1px;
+    bottom: 0px;
+    width: 100vw;
+    
+    
+}
